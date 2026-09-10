@@ -4,8 +4,6 @@ title: about
 permalink: /
 subtitle: Ph.D. Student at Shenzhen University
 
-nav: true
-nav_order: 1
 
 profile:
   align: right
