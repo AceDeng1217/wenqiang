@@ -3,8 +3,7 @@ layout: page
 title: research
 permalink: /research/
 description: Research interests and previous research of Wenqiang Deng.
-nav: true
-nav_order: 2
+
 ---
 
 ## Research Interests
